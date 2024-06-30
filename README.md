@@ -7,8 +7,16 @@
 ## encapsulation
 
 - a structure or blueprint which brings all the general behavior in a same place. we make it happen using class
-- property could be public(accessible from outside of class) or private(indirect accessible -> uses hash on the property)
+- property could be public(accessible from outside of class) or private(indirect accessible -> uses front hash on the property)
 
-2. inheritance
-3. abstraction
-4. polymorphism
+## inheritance
+
+- a functionality where a class gets access of similar properties of previous classes using super()
+
+## abstraction
+
+- is the superset where we do not know the inner functionality but we can use the function.
+
+* driver drives a car using staring wheel and paddle but, dose'nt know engine's inner working.
+
+## polymorphism
