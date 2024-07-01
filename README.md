@@ -21,7 +21,7 @@
 
 ### 4. polymorphism (many structure or shape)
 
--> poly means many
--> morpheus means structure or shape
+-> poly means: many
+-> morpheus means: structure or shape
 
 - same function in different classes and different shape
